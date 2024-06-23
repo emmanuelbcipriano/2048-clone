@@ -22,8 +22,8 @@ hr{
 }
 
 #board{
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     background-color: #356381;
     border: 6px solid #44718f;
     /* border-right: 10px solid #44718f; */
